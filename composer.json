@@ -1,6 +1,7 @@
 {
     "require": {
-        "eftec/bladeone": "^3.16"
+        "eftec/bladeone": "^3.16",
+        "ext-json": "^1.6"
     },
     "autoload": {
         "psr-4": {
