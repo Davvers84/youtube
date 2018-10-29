@@ -1,5 +1,10 @@
 {
     "require": {
         "eftec/bladeone": "^3.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "Youtube\\":"src/"
+        }
     }
 }
